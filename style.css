@@ -2571,12 +2571,12 @@ nav ul li a img {
 }
 
 
+
 .lust-subaru-zesty {
     position: absolute;
     min-width: 400px;
     min-height: 400px;
     top: 885px;
-    left: calc(50vw - (960px + 1920px - 500px ));
 }
 
 .lust-subaru-zesty img {
@@ -2589,7 +2589,7 @@ nav ul li a img {
 .border-box-lust-5 {
     width: 320px;
     height: 455px;
-    left: calc(50vw - (960px - 1920px + 490px ));
+    left: calc(50vw - (960px - 300px ));
     z-index: 0;
     top: 20px;
 }
@@ -2602,20 +2602,19 @@ nav ul li a img {
     min-width: 400px;
     min-height: 400px;
     top: 1085px;
-    left: calc(50vw - (960px + 1920px - 875px ));
 }
 
 .lust-subaru-down-bad img {
     position: absolute;
     max-width: 300px;
-    left: 5px ;
-    top: 5px;
+    left: 7px ;
+    top: 6px;
 }
 
 .border-box-lust-6 {
     width: 320px;
     height: 320px;
-    left: calc(50vw - (960px - 1920px + 490px ));
+    left: calc(50vw - (960px - 1920px + 1190px ));
     z-index: 0;
     top: 20px;
 }
